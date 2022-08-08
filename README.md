@@ -1,8 +1,8 @@
 ### Hello, I'm Elizabeth 👋
 
-⭐️ I’m interested in **Test Automation**
+⭐️ I’m interested in **Android Development** and **Test Automation**
 
-🌱 I’m currently learning **Test Automation** and **IA**
+🌱 I’m currently learning **Kotlin**, **Test Automation** and **IA**
 
 💬 Ask me about Android
 
