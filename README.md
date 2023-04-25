@@ -2,11 +2,11 @@
 
 ⭐️ I’m interested in Android Development and Test Automation
 
-🌱 I’m currently learning Kotlin, Test Automation and IA
-
+🔭 I’m looking to collaborate on Android and Testing project
 💬 Ask me about Android & Machine Learning
+🌱 I’m currently learning Flutter, Test automation and IA
 
-:books: I want to learn Flutter
+:books: I want to learn iOS development
 
 
 ### Tech & Tools
