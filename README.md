@@ -2,13 +2,11 @@
 
 ⭐️ I’m interested in Android Development and Test Automation
 
-🔭 I’m looking to collaborate on Android and Testing project
+🔭 I’m looking to collaborate on Android and Test automation project
 
 💬 Ask me about Android & Machine Learning
 
-🌱 I’m currently learning Flutter, Test automation and IA
-
-:books: I want to learn iOS development
+🌱 I’m currently learning Compose & iOS development
 
 📫 How to reach me: qestebane@outlook.com
 
